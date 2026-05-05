@@ -1,0 +1,2 @@
+<?php
+//Use NOT operator
